@@ -20,10 +20,12 @@ Riscaldare il brodo.
 Nel frattempo, tagliate la rughetta grossolanamente (o secondo proprio gusto) e rimuovete i gambi più vistosi.
 Quando il soffritto si sarà imbiondito, aggiungere la rughetta e lasciarla abbattere per un paio di minuti.
 Quando la rughetta sarà abbattuta, aggiungere il riso e farlo tostare.
-Appena il riso è sufficientemente caldo, versare il vino bianco e girare energicamente. 
+Appena il riso è sufficientemente caldo, versare il vino bianco e girare energicamente fino a che non è quasi asciutto. 
 Versare del brodo nella casseruola per coprire appena il riso e girare.
 Aggiungere il brodo via via che s'asciuga per circa venti minuti, o comunque fino a cottura desiderata.
 Quando il risotto sarà quasi del tutto asciugato, aggiungere il taleggio a cubetti, e mantecare mescolando.
 Lasciar riposare un minuto e servire con una spolverata di pepe nero se di gradimento.
 
-### La rughetta si brucia in fretta!
+```
+La rughetta si brucia in fretta!
+```
